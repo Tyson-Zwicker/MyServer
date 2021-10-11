@@ -1,0 +1,47 @@
+.body{
+	font-family:Consolas;
+	font-size:14pt;
+	background: #045;
+}
+.header1{
+	font-family:Consolas;
+	font-size:24pt;
+	color: #6EF;
+}
+.header2{
+	font-family:Consolas;
+	font-size:18pt;
+	color: #5CF;
+}
+.table{
+	width:50%;
+	border:10px,#F00;
+}
+.tablelabelcell{
+	margin:0px;
+	width:50%;
+	padding:7px;
+	border: 20px, #FF0;
+	border-right:10px solid, #FFF;
+	background-color: #029;
+	color : #6FF;
+	text-align:right;
+}
+.tablefieldcell{
+	margin:0px;
+	width:50%;
+	padding:0px;
+	border: 20px, #FF0;
+	border-left:1px solid, #FFF;
+	background-color: #029;
+	color : #0EF;
+	text-align:left;
+}
+.tableinput{
+	padding:5px;
+	width:95%;
+	margin:5px;
+	background-color: #047;
+	color:#6FF;
+	border-width: 0px;
+}
